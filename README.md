@@ -1,59 +1,21 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name
+DEBUGGING JS CODE WITH QA.
 
 > One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+ This project is been done to introduce us to the quality assurance on code and how to debug code in javascript using the broswer console in mordern browsers an setting break points and execution etc.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- HTML & JS
+- Git and Github
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+[@Githubhandle](https://github.com/Geoelycom)
+[@twitterhandle](https://twitter.com/Ely_codes)
+[LinkedIn](https://linkedin.com/in/ekenimohElyan)
 
 ## 🤝 Contributing
 
@@ -64,12 +26,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
